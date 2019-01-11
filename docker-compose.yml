@@ -1,0 +1,8 @@
+version: "3.6"
+services:
+  scheduler:
+    build:
+      dockerfile: scheduler.dockerfile
+      context: .
+    ports:
+      - 8082:8082
