@@ -1,0 +1,10 @@
+[MASTER]
+
+[MESSAGE-CONTROL]
+disable=
+    W0221,
+    C0412,
+    C0111,
+
+[TYPECHECK]
+ignored-classes=Generator

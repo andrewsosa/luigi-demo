@@ -1,0 +1,4 @@
+luigi.cfg
+data/
+.vscode/
+.mypy_cache
