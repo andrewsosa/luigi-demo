@@ -7,15 +7,13 @@ verify_ssl = true
 pylint = "*"
 rope = "*"
 black = "*"
-mypy = "*"
 
 [packages]
 luigi = "*"
 requests = "*"
 python-dateutil = "*"
-sqlalchemy = "*"
 faker = "*"
-pandas = "*"
+pymongo = "*"
 
 [requires]
 python_version = "3.6"
